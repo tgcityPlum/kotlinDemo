@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/6d94a3ddcaa49da483101e6348058868/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/chenw/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4f4a26b1152b8879da4b13966c830a59/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/afe33322c793f846614612d959d64585/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/31a1056431e63101301ec4345d54d20d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/687d82e01ec7f92b4cd748629f80b63e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/dfaae92e794e023debb94ae83d9a1add/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/26942b82a7784f7a21de6bb573cd7366/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/617a3ed6630d0440cb4c5daab1d3a8b6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/ac71e2c5c1f9856fe0fa2fadfe070550/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/d7fb55ef95d874234f9d95355c7a6d56/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/84824056d8438c8ec28999908c30afd3/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml
+		ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml
+		ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/6d94a3ddcaa49da483101e6348058868/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/6d94a3ddcaa49da483101e6348058868/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/chenw/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4f4a26b1152b8879da4b13966c830a59/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/chenw/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4f4a26b1152b8879da4b13966c830a59/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/31a1056431e63101301ec4345d54d20d/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/31a1056431e63101301ec4345d54d20d/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/687d82e01ec7f92b4cd748629f80b63e/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/687d82e01ec7f92b4cd748629f80b63e/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/dfaae92e794e023debb94ae83d9a1add/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/dfaae92e794e023debb94ae83d9a1add/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/26942b82a7784f7a21de6bb573cd7366/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/26942b82a7784f7a21de6bb573cd7366/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/617a3ed6630d0440cb4c5daab1d3a8b6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/617a3ed6630d0440cb4c5daab1d3a8b6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/ac71e2c5c1f9856fe0fa2fadfe070550/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/ac71e2c5c1f9856fe0fa2fadfe070550/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/d7fb55ef95d874234f9d95355c7a6d56/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/d7fb55ef95d874234f9d95355c7a6d56/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/84824056d8438c8ec28999908c30afd3/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/84824056d8438c8ec28999908c30afd3/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.chrissen.kotlindemo.MainActivity
+ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml
+INJECTED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/6d94a3ddcaa49da483101e6348058868/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/6d94a3ddcaa49da483101e6348058868/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/chenw/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4f4a26b1152b8879da4b13966c830a59/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/chenw/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4f4a26b1152b8879da4b13966c830a59/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/afe33322c793f846614612d959d64585/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/afe33322c793f846614612d959d64585/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/31a1056431e63101301ec4345d54d20d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/31a1056431e63101301ec4345d54d20d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/687d82e01ec7f92b4cd748629f80b63e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/687d82e01ec7f92b4cd748629f80b63e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/dfaae92e794e023debb94ae83d9a1add/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/dfaae92e794e023debb94ae83d9a1add/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/26942b82a7784f7a21de6bb573cd7366/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/26942b82a7784f7a21de6bb573cd7366/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/617a3ed6630d0440cb4c5daab1d3a8b6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/617a3ed6630d0440cb4c5daab1d3a8b6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/ac71e2c5c1f9856fe0fa2fadfe070550/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/ac71e2c5c1f9856fe0fa2fadfe070550/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/d7fb55ef95d874234f9d95355c7a6d56/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/d7fb55ef95d874234f9d95355c7a6d56/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/84824056d8438c8ec28999908c30afd3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/84824056d8438c8ec28999908c30afd3/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml
+INJECTED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/6d94a3ddcaa49da483101e6348058868/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml
+		ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml
+		ADDED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chenw/下载/kotlinDemo/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/6d94a3ddcaa49da483101e6348058868/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/afe33322c793f846614612d959d64585/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/afe33322c793f846614612d959d64585/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/31a1056431e63101301ec4345d54d20d/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/31a1056431e63101301ec4345d54d20d/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/687d82e01ec7f92b4cd748629f80b63e/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/687d82e01ec7f92b4cd748629f80b63e/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/dfaae92e794e023debb94ae83d9a1add/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/dfaae92e794e023debb94ae83d9a1add/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/26942b82a7784f7a21de6bb573cd7366/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/26942b82a7784f7a21de6bb573cd7366/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/617a3ed6630d0440cb4c5daab1d3a8b6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/617a3ed6630d0440cb4c5daab1d3a8b6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/ac71e2c5c1f9856fe0fa2fadfe070550/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/ac71e2c5c1f9856fe0fa2fadfe070550/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/d7fb55ef95d874234f9d95355c7a6d56/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/d7fb55ef95d874234f9d95355c7a6d56/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/84824056d8438c8ec28999908c30afd3/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/84824056d8438c8ec28999908c30afd3/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/6d94a3ddcaa49da483101e6348058868/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /home/chenw/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/6d94a3ddcaa49da483101e6348058868/AndroidManifest.xml:26:9-47
